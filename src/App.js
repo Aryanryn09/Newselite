@@ -10,8 +10,8 @@ import News from './components/News';
 
 function App() {
   return (
-    <div>
-      <Navbar/>
+    <div className ="my-4 mx-3">
+      <Navbar />
       <News/>
     </div>
   )
